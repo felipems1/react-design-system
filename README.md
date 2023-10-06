@@ -25,7 +25,7 @@ Um pouco das tecnologias que foram utilizadas no projeto:
 
 ## 3 - Layout no Figma
 
-Para visualizar o layout do projeto no Figma, acesse o [Figma Design](https://www.figma.com/file/9sCzNiqmDqLvBDm6MAPHod/Ignite-Lab-Design-System?type=design&node-id=0-1&mode=design&t=LnI0DOZ26aVvjHeL-0) para obter detalhes completos.
+Para visualizar o layout do projeto no Figma, acesse o [Figma Design](https://www.figma.com/file/9sCzNiqmDqLvBDm6MAPHod/Ignite-Lab-Design-System?type=design&t=PrEzBwnbff2iCZ8H-6) para obter detalhes completos.
 
 <div align="center">
   <img src="./public/figma.png" alt="Layout no Figma" >
