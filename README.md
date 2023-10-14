@@ -14,30 +14,40 @@ Este é um projeto desenvolvido durante o Ignite Lab Design System, que se trata
 
 Um pouco das tecnologias que foram utilizadas no projeto: 
 
-- React
+- ReactJs
 - TypeScript
 - Radix UI
 - Tailwind CSS
-- Figma (para design)
-- Storybook (para documentação)
+- Figma
+- Storybook
 
 ---
 
 ## 3 - Layout no Figma
 
-Para visualizar o layout do projeto no Figma, acesse o [Figma Design](https://www.figma.com/file/9sCzNiqmDqLvBDm6MAPHod/Ignite-Lab-Design-System?type=design&t=PrEzBwnbff2iCZ8H-6) para obter detalhes completos.
+Para visualizar o layout do projeto no Figma, acesse o [Figma](https://www.figma.com/file/9sCzNiqmDqLvBDm6MAPHod/Ignite-Lab-Design-System?type=design&t=PrEzBwnbff2iCZ8H-6) para obter detalhes completos.
 
 <div align="center">
   <img src="./public/figma.png" alt="Layout no Figma" >
 </div>
 
-## 3 - Instalação e Uso
+---
+
+## 4 - Documentação no Storybook
+
+Para visualizar o documentação do projeto no Storybook, acesse o [Storybook](https://651d79c73b8522ab50de5cb1-mdkyhgzejp.chromatic.com/) para obter detalhes completos.
+
+<div align="center">
+  <img src="./public/storybook.png" alt="Documentação no Storybook" >
+</div>
+
+---
+
+## 5 - Instalação e uso
 
 ### Requisitos:
 - [NodeJS](https://nodejs.org/en/)
 - [Npm](https://www.npmjs.com) ou [yarn](https://yarnpkg.com)
-
----
 
 Clone o projeto em sua máquina e instale as dependências com o comando:
 
@@ -49,14 +59,13 @@ npm install
 
 ---
 
-Para iniciar a aplicação em modo de desenvolvimento, utilize o seguinte comando:
+Com todas as dependencias devidamente instaladas, basta rodar o seguinte comando:
 
 ```shell
-yarn start
+yarn dev
 ou
-npm run start
+npm run dev
 ```
-A aplicação estará disponível em http://localhost:5173 no seu navegador.
 
 ---
 
@@ -67,6 +76,5 @@ yarn storybook
 ou
 npm run storybook
 ```
-O Storybook estará disponível em http://localhost:6006 no seu navegador.
 
----
+<p align="center">Projeto feito com ❤️ por <a href="https://www.linkedin.com/in/felipemoises12/">Felipe Moises</a></p>
