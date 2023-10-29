@@ -20,6 +20,7 @@ Um pouco das tecnologias que foram utilizadas no projeto:
 - Tailwind CSS
 - Figma
 - Storybook
+- GitHub Actions (CI/CD)
 
 ---
 
@@ -43,38 +44,21 @@ Para visualizar o documentação do projeto no Storybook, acesse o [Storybook](h
 
 ---
 
-## 5 - Instalação e uso
+## 5 - Rodando o projeto:
 
-### Requisitos:
-- [NodeJS](https://nodejs.org/en/)
-- [Npm](https://www.npmjs.com) ou [yarn](https://yarnpkg.com)
+Você precisa ter o [Node](https://nodejs.org/en/), o [Git](https://git-scm.com/) e algum gerenciador de pacotes([NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/) | [Yarn](https://classic.yarnpkg.com/lang/en/docs/install)) instalados em sua máquina.
 
-Clone o projeto em sua máquina e instale as dependências com o comando:
+```bash
+1. Clone o repositório:
+$ git clone https://github.com/felipems1/react-design-system.git
 
-```shell
-yarn
-ou
-npm install
+2. Acesse a pasta e instale as dependências via terminal:
+$ yarn install / npm install
+
+3. Inicie a aplicação em modo de desenvolvimento:
+$ yarn dev / npm run dev
+
+4. O servidor será aberto em http://localhost:5173
 ```
 
----
-
-Com todas as dependencias devidamente instaladas, basta rodar o seguinte comando:
-
-```shell
-yarn dev
-ou
-npm run dev
-```
-
----
-
-Para visualizar a documentação do Design System com o Storybook, execute o seguinte comando:
-
-```shell
-yarn storybook
-ou
-npm run storybook
-```
-
-<p align="center">Projeto feito com ❤️ por <a href="https://www.linkedin.com/in/felipemoises12/">Felipe Moises</a></p>
+<p align="center">Projeto feito com ❤️ por <a href="https://www.linkedin.com/in/felipems12/">Felipe Moises</a></p>
