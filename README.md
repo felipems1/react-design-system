@@ -1,4 +1,4 @@
-# React Design System
+<h1 align="center">React Design System</h1>
 
 <div align="center">
   <img src="./public/preview.png" alt="demonstração do projeto" >
@@ -12,7 +12,7 @@ Este é um projeto desenvolvido durante o Ignite Lab Design System, que se trata
 
 ## 2 - Tecnologias
 
-Um pouco das tecnologias que foram utilizadas no projeto: 
+Um pouco das tecnologias que foram utilizadas no projeto:
 
 - ReactJs
 - TypeScript
